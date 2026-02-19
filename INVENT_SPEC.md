@@ -1,0 +1,1 @@
+rank job applications, input schema is object with apps and job desc
